@@ -1,2 +1,2 @@
 # people-analytics-starter
-xploring HR and workforce trends through data and analytics.
+Exploring HR and workforce trends through data and analytics.
